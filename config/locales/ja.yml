@@ -4,9 +4,17 @@ ja:
       user: "ユーザー"
       comment: "コメント"
       admin_user: "管理者"
-    attribute:
+    attributes:
       user:
         name: "名前"
         age: "年齢"
         address: "住所"
+        created_at: "登録日"
+        updated_at: "更新日"
+
+      admin_user:
+        id: "登録番号"
+        email: "メールアドレス"
+        created_at: "登録日"
+
 
